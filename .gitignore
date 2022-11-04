@@ -5,3 +5,4 @@ __pycache__
 *.dat
 exec_time.csv
 log/*
+.venv
